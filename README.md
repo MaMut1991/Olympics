@@ -23,5 +23,10 @@ Country: Athlete's country of origin
 The dataset provides a diverse foundation for analyzing success factors across different disciplines and nations.
 
 ### Planned Implementation
-Initially, an exploratory data analysis (EDA) using Python will be conducted with the raw data to get a sense of the data and, if necessary, clean it. Next, a normalized ERD (Entity-Relationship Diagram) will be created, which will guide the data export into various CSV files and integration into a database. The CSV files will also be imported into Tableau to create an interactive dashboard for coaches and sports scientists.
+
+##### What you cannot see in this repository:
+- Initially, an exploratory data analysis (EDA) using Python will be conducted with the raw data to get a sense of the data and, if necessary, clean it
+
+##### What you can see in this repository:
+- A normalized ERD (Entity-Relationship Diagram) will be created , which will guide the data export into various CSV files. Further, the CSV files will be imported into Tableau to create an dashboard
 
