@@ -1,12 +1,12 @@
 # Olympics
 Small Database and Dashboard Case Study with Olympics Dataset
 
-## Case Study: Success Factor Analysis for Olympic Athletes
-### Project Description
-This project investigates success factors in elite sports using a dataset on Olympic athletes. The aim of the case study is to identify characteristics that can help coaches and sports scientists better prepare athletes for competitions. The analysis seeks to uncover relationships between athletes' demographic and physical attributes, their respective sports, and their success at the Olympic Games.
+## Case Study: Historical Analysis of the Olympics (1896-2016)
+### Objectives
+The main objective of this project is to identify changes within the Olympic Games over time in terms of gender, sports, and participants. It is, therefore, a historical analysis of the Olympic Games. The result is a Tableau dashboard accessible to anyone interested in this information.
 
 ### Dataset Description
-The dataset contains detailed information on athletes from various sports and countries who have participated in the Olympic Games. The table includes 219,087 entries and 12 attributes describing the athletes, including:
+I got the dataset (olympics_cleaned_v4.csv) from Data Science Institute in Berlin. It contains detailed information on athletes from various sports and countries who have participated in the Olympic Games from 1896 to 2016. The table includes 219,087 samples and 12 features describing the athletes, including:
 
 ID: Unique identifier for each athlete
 Name: Athlete's name
@@ -22,9 +22,11 @@ Medal: Type of medal (Gold, Silver, Bronze) or no medal
 Country: Athlete's country of origin
 The dataset provides a diverse foundation for analyzing success factors across different disciplines and nations.
 
-### Objectives
-The main objective of this project is to analyze relationships between athletes' demographic and physical attributes and their success at the Olympic Games. The results are intended to help coaches and sports scientists better understand which factors—such as age, height, or weight—are particularly relevant in specific disciplines. This information can serve as a foundation for preparing athletes for future competitions.
-
 ### Planned Implementation
-Initially, an exploratory data analysis (EDA) using Python will be conducted with the raw data to get a sense of the data and, if necessary, clean it. Next, a normalized ERD (Entity-Relationship Diagram) will be created, which will guide the data export into various CSV files and integration into a database. The CSV files will also be imported into Tableau to create an interactive dashboard for coaches and sports scientists.
+
+##### What you cannot see in this repository:
+- Initially, an exploratory data analysis (EDA) using Python will be conducted with the raw data (olympics_cleaned_v4.csv) to get a sense of the data and, if necessary, clean it
+
+##### What you can see in this repository:
+- A normalized ERD (Entity-Relationship Diagram) will be created , which will guide the data export into various CSV files. Further, the CSV files will be imported into Tableau to create a dashboard
 
