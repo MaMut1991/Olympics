@@ -1,0 +1,29 @@
+,Year,Count,Added,Removed
+0,1896,4,[],[]
+1,1900,6,"['Water Polo', 'Rugby', 'Swimming', 'Fencing']","['Wrestling', 'Weightlifting']"
+2,1904,10,"['Wrestling', 'Tennis', 'Weightlifting', 'Boxing', 'Tug-Of-War', 'Lacrosse']","['Rugby', 'Fencing']"
+3,1908,14,"['Rowing', 'Hockey', 'Football', 'Diving', 'Cycling', 'Fencing', 'Motorboating']","['Tennis', 'Lacrosse', 'Weightlifting']"
+4,1912,13,"['Tennis', 'Equestrianism', 'Shooting', 'Sailing']","['Hockey', 'Tug-Of-War', 'Boxing', 'Cycling', 'Motorboating']"
+5,1920,17,"['Weightlifting', 'Figure Skating', 'Boxing', 'Cycling', 'Rugby', 'Ice Hockey']","['Equestrianism', 'Shooting']"
+6,1924,17,"['Equestrianism', 'Art Competitions', 'Shooting', 'Modern Pentathlon']","['Figure Skating', 'Ice Hockey', 'Gymnastics', 'Sailing']"
+7,1928,15,"['Gymnastics', 'Sailing']","['Rugby', 'Tennis', 'Shooting', 'Diving']"
+8,1932,13,['Hockey'],"['Water Polo', 'Football', 'Equestrianism']"
+9,1936,18,"['Equestrianism', 'Handball', 'Football', 'Canoeing', 'Shooting', 'Basketball']",['Modern Pentathlon']
+10,1948,20,"['Water Polo', 'Diving', 'Modern Pentathlon']",['Handball']
+11,1952,19,[],['Art Competitions']
+12,1956,19,[],[]
+13,1960,19,[],[]
+14,1964,21,"['Judo', 'Volleyball']",[]
+15,1968,20,[],['Judo']
+16,1972,23,"['Judo', 'Handball', 'Archery']",[]
+17,1976,23,[],[]
+18,1980,23,[],[]
+19,1984,25,"['Rhythmic Gymnastics', 'Synchronized Swimming']",[]
+20,1988,27,"['Tennis', 'Table Tennis']",[]
+21,1992,29,"['Baseball', 'Badminton']",[]
+22,1996,31,"['Softball', 'Beach Volleyball']",[]
+23,2000,34,"['Trampolining', 'Taekwondo', 'Triathlon']",[]
+24,2004,34,[],[]
+25,2008,34,[],[]
+26,2012,32,[],"['Baseball', 'Softball']"
+27,2016,34,"['Rugby Sevens', 'Golf']",[]
